@@ -1,0 +1,16 @@
+.jumbotron-mod {
+    background-image: url("images/bg2.jpg");
+    text-align: center;
+    color: white;
+}
+
+.photo-mod {
+    text-align: center;
+}
+.centro {
+    text-align: center;
+}
+.thumbnail {
+    border: 7px solid #ddd;
+    padding: 0px;
+}
